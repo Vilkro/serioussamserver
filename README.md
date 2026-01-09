@@ -1,4 +1,4 @@
-# Serious Sam Classic dedicated server configs for TFE and TSE
+# Serious Sam Classic dedicated server configs for TFE/TSE
 - init.ini with scripts and configurations
 Personal game settings and commands for server management (map change, etc.)
 - Engine.dll as a patch for blank server-side chat messages
